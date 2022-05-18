@@ -1,0 +1,24 @@
+.cores:hover {
+    border: 5px solid black;
+    
+}
+
+#div1 {
+    color: yellow;
+}
+
+#div2 {
+    color: orange;
+}
+
+#div3 {
+    color: #00FFFF;
+}
+
+#div4 {
+    color: black;
+}
+
+#div5 {
+    color: white;
+}
